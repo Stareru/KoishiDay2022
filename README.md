@@ -23,3 +23,7 @@ Then, download the dependent packages in requirements.txt
 ```sh
 $ pip install requirements.txt
 ```
+
+最后，运行Jupyter Notebook中的代码来生成东方歌词和翻译吧吧！\
+最後にJupyter Notebookのセル中のプログラムを実行しましょう！歌詞と翻訳結果がどんどん出てくるでしょう～\
+Finally, run the Jupyter Notebook and see the generated lyrics and translated results!
