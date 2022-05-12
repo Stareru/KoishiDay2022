@@ -130,6 +130,11 @@ Google翻译： （收集）：充满希望（Marisa：明天去）
 PaToL翻译： （荷取）:希望满溢着（魔理沙：前往明天）
 标准翻译： （荷取）:相信希望 (魔理沙：向明日前进)
 ```
+## 资源引用以及感谢 \& 借り物表 \& Reference
+
+**训练使用的语料**由[thbwiki](https://thwiki.cc/)、[萌娘百科](https://zh.moegirl.org.cn/)以及[東方同人CDの歌詞](https://w.atwiki.jp/touhoukashi/)提供，非常感谢百科工作者为社区建设的贡献！\
+**预训练模型**使用了[bert-base-chinese](https://huggingface.co/bert-base-chinese)、[rinna/japanese-gpt2-medium](https://huggingface.co/rinna/japanese-gpt2-medium)以及[junnyu/wobert_chinese_plus_base](junnyu/wobert_chinese_plus_base)，感谢NLP社区开源的模型！\
+最后感谢为本次项目提供了服务器和显卡的学长和教授！
 
 ## 更多作品
 ### 灵梦
