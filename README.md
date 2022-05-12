@@ -6,11 +6,20 @@ Present for Koishi Day 2022 - Paralleled Touhou Lyric Generator and Translator (
 ## 使用方法 \& 使い方 \& How to use?
 首先，从Google Drvive下载模型状态 \
 まず、グーグルドライブからモデルステートをダウンロードしてください \
-First download the model state from Google Drive 
+First, download the model state from Google Drive 
 ```sh
 $ wget https://drive.google.com/file/d/1BmD4PY3YXeMx1HHUVlV8iU2q1_uv2L9J/view?usp=sharing
 ```
 
-如果你无法使用Google Drive请在issue中联系我！\
+如果你无法使用Google Drive请在issue中联系我！
  
-然后将下载到的pths文件放置在与models.py Pipeline.ipynb的同一个文件夹中。\
+然后将下载到的pths文件放置在与models.py及Pipeline.ipynb的同一个文件夹中\
+そして、ダウンロードしたpthsファイルをmodels.py及びPipeline.ipynbと同じなフォルダに置いてください\
+Then, put the pths files into the same folder that contains models.py and Pipeline.ipynb.
+
+接着，下载requirements.txt中的依存库\
+そして、requirements.txt中の依存パッケージをダウンロードしてください\
+Then, download the dependent packages in requirements.txt
+```sh
+$ pip install requirements.txt
+```
