@@ -405,3 +405,15 @@ PaToL翻译： （荷取）:希望满溢着（魔理沙：前往明天）
 翻译： 闪闪发光的花珠
 --------------------------------------------------
 ```
+
+引用我们 & このリポジトリを引用する & Cite Our Work
+
+```bib
+@article{ILoveKoishi2022,
+  author    = {Letian Peng and
+               Zuchao Li and
+               Hai Zhao}, 
+  year      = {2022}, 
+  url       = {https://github.com/Stareru/KoishiDay2022}, 
+}
+```
