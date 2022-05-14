@@ -153,7 +153,7 @@ If you are interested in this work, you can cite our code following the bib file
 ```
 
 ## 更多作品 & 作品をもっとして下さい！ & More Lyrics
-### 灵梦
+### 灵梦 \& 霊夢　\& Reimu
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -179,7 +179,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 贯穿幻想乡
 --------------------------------------------------
 ```
-### 魔理沙
+### 魔理沙 \& 魔理沙　\& Marisa
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -199,7 +199,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 世界在循环着永远重叠着
 --------------------------------------------------
 ```
-### 咲夜
+### 咲夜 \& 咲夜　\& Sakuya
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -219,7 +219,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 跨越过去的季节与美丽消失的你所给予的东西
 --------------------------------------------------
 ```
-### 早苗
+### 早苗 \& 早苗　\& Sanae
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -242,7 +242,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 鸟儿们自由飞翔自由飞翔的乐园
 --------------------------------------------------
 ```
-### 妖梦
+### 妖梦 \& 妖梦　\& Youmu
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -277,7 +277,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 谁来守护我
 --------------------------------------------------
 ```
-### 觉大人
+### 觉大人 \& さとり様　\& Satori
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -300,7 +300,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 回想起来就刃刃而熊熊燃烧
 --------------------------------------------------
 ```
-### 蕾米莉亚
+### 蕾米莉亚 \& レミリア \& Remilia
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -320,7 +320,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 一直在寻找着啊在眼眸深处的深处
 --------------------------------------------------
 ```
-### 芙兰朵露
+### 芙兰朵露 \& レミリア \& Flandre
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -349,7 +349,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 你呼喊的声音
 --------------------------------------------------
 ```
-### 幽幽子
+### 幽幽子 \& 幽々子 \& yuyuko
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -372,7 +372,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 美丽而又遥远地安静地吧
 --------------------------------------------------
 ```
-### 紫老￥U*ah9d*$()#INF3hr9
+### 紫老￥U*ah9d*$()#INF3hr9 \& 紫 & Yukari
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
@@ -395,7 +395,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 逞强地活下去
 --------------------------------------------------
 ```
-### 琪露诺
+### 琪露诺 \& チルノ \& Cirno
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
