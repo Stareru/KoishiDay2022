@@ -136,6 +136,22 @@ PaToL翻译： （荷取）:希望满溢着（魔理沙：前往明天）
 **预训练模型**使用了[bert-base-chinese](https://huggingface.co/bert-base-chinese)、[rinna/japanese-gpt2-medium](https://huggingface.co/rinna/japanese-gpt2-medium)以及[junnyu/wobert_chinese_plus_base](junnyu/wobert_chinese_plus_base)，感谢NLP社区开源的模型！\
 最后感谢为本次项目提供了服务器和显卡的学长和老师！
 
+## 引用我们 & このリポジトリを引用する & Cite Our Work ##
+
+如果对我们的工作感兴趣，可以使用下方的bib文件引用我们的代码：
+このリポジトリに興味が持ったら、下のbibファイルで引用して下さい：
+If you are interested in this work, you can cite our code following the bib file:
+
+```bib
+@misc{ILoveKoishi2022,
+  author    = {Letian Peng and
+               Zuchao Li and
+               Hai Zhao}, 
+  year      = {2022}, 
+  url       = {https://github.com/Stareru/KoishiDay2022}, 
+}
+```
+
 ## 更多作品
 ### 灵梦
 ```
@@ -404,16 +420,4 @@ PaToL翻译： （荷取）:希望满溢着（魔理沙：前往明天）
 歌词： 煌めく毬色の雫は
 翻译： 闪闪发光的花珠
 --------------------------------------------------
-```
-
-引用我们 & このリポジトリを引用する & Cite Our Work
-
-```bib
-@misc{ILoveKoishi2022,
-  author    = {Letian Peng and
-               Zuchao Li and
-               Hai Zhao}, 
-  year      = {2022}, 
-  url       = {https://github.com/Stareru/KoishiDay2022}, 
-}
 ```
