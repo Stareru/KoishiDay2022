@@ -94,7 +94,7 @@ Finally, run the Jupyter Notebook and see the generated lyrics and translated re
 翻译： 若被诅咒的印刻
 --------------------------------------------------
 ```
-## 翻译展示
+## 翻译展示 \& 翻訳結果 \& Translated Results
 ```
 日文原文： 閉じた恋の瞳
 ....................................................................................................
@@ -136,10 +136,10 @@ PaToL翻译： （荷取）:希望满溢着（魔理沙：前往明天）
 **预训练模型**使用了[bert-base-chinese](https://huggingface.co/bert-base-chinese)、[rinna/japanese-gpt2-medium](https://huggingface.co/rinna/japanese-gpt2-medium)以及[junnyu/wobert_chinese_plus_base](junnyu/wobert_chinese_plus_base)，感谢NLP社区开源的模型！\
 最后感谢为本次项目提供了服务器和显卡的学长和老师！
 
-## 引用我们 & このリポジトリを引用する & Cite Our Work ##
+## 引用我们 \& このリポジトリを引用する \& Cite Our Work ##
 
-如果对我们的工作感兴趣，可以使用下方的bib文件引用我们的代码：
-このリポジトリに興味が持ったら、下のbibファイルで引用して下さい：
+如果对我们的工作感兴趣，可以使用下方的bib文件引用我们的代码：\
+このリポジトリに興味が持ったら、下のbibファイルで引用して下さい：\
 If you are interested in this work, you can cite our code following the bib file:
 
 ```bib
@@ -152,7 +152,7 @@ If you are interested in this work, you can cite our code following the bib file
 }
 ```
 
-## 更多作品
+## 更多作品 & 作品をもっとして下さい！ & More Lyrics
 ### 灵梦
 ```
 作曲：ZUN    作词：GPT2-Touhou
