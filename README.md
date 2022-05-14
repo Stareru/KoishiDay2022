@@ -320,7 +320,7 @@ If you are interested in this work, you can cite our code following the bib file
 翻译： 一直在寻找着啊在眼眸深处的深处
 --------------------------------------------------
 ```
-### 芙兰朵露 \& レミリア \& Flandre
+### 芙兰朵露 \& フランドール \& Flandre
 ```
 作曲：ZUN    作词：GPT2-Touhou
 --------------------------------------------------
