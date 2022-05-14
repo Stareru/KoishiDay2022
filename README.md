@@ -409,7 +409,7 @@ PaToL翻译： （荷取）:希望满溢着（魔理沙：前往明天）
 引用我们 & このリポジトリを引用する & Cite Our Work
 
 ```bib
-@article{ILoveKoishi2022,
+@misc{ILoveKoishi2022,
   author    = {Letian Peng and
                Zuchao Li and
                Hai Zhao}, 
